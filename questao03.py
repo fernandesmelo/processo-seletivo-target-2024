@@ -40,3 +40,6 @@ print("c) ", proximo_elemento_c())
 print("d) ", proximo_elemento_d())
 print("e) ", proximo_elemento_e())
 print("f) Indeterminado (necessita mais informações)")
+
+
+#OBS: A sequ~encia F parece não seguir uma lógica clara por isso marquei como indeterminada.
